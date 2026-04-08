@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi 👋, I'm Gayatri Chhetri
 
-<!--
-**gayatrichhetri247-ship-it/gayatrichhetri247-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Developer | React Developer
 
-Here are some ideas to get you started:
+I'm a passionate **Front-End Developer** with **2 years of experience** building modern and responsive web applications. I enjoy creating clean UI, smooth user experiences, and scalable frontend architectures using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 💻 Front-End Developer with **2 years of professional experience**
+* 🏢 Worked at **Gamenic** and **Nalamiz Tech**
+* 🌱 Currently improving my skills in **advanced React and modern frontend tools**
+* 🎨 Interested in both **development and UI design**
+* ⚡ Love building **interactive and animated web interfaces**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* React Native
+* JavaScript
+* HTML
+* CSS
+* Tailwind CSS
+
+### AI / Tools
+
+* Dify
+* Git & GitHub
+
+### Design
+
+* Figma
+* Photoshop (Basic Knowledge)
+
+---
+
+## 💼 Experience
+
+**Front-End Developer**
+Gamenic & Nalamiz Tech
+📅 2 Years Experience
+
+Worked on building responsive web applications, UI components, and interactive frontend features using modern JavaScript frameworks.
+
+---
+
+## 📂 Projects
+
+Here are some projects you can explore in my repositories:
+
+* React Web Applications
+* Responsive UI Designs
+* Frontend Experiments and Components
+
+---
+
+## 🌐 Connect With Me
+
+* GitHub: https://github.com/yourusername
+* Portfolio: Coming Soon 🚀
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
