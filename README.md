@@ -51,7 +51,7 @@ Worked on building responsive web applications, UI components, and interactive f
 
 ## 📂 Projects
 
-Here are some projects you can explore in my repositories:
+Here are some projects 
 
 * Portfolio
 * Travel Package Booking System
