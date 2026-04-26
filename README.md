@@ -28,8 +28,8 @@ I'm a passionate **Front-End Developer** with **2 years of experience** building
 * Tailwind CSS
 
 ### AI / Tools
-
 * Dify
+* claude code
 * Git & GitHub
 
 ### Design
