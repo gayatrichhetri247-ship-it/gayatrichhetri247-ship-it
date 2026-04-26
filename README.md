@@ -53,16 +53,17 @@ Worked on building responsive web applications, UI components, and interactive f
 
 Here are some projects you can explore in my repositories:
 
-* React Web Applications
-* Responsive UI Designs
-* Frontend Experiments and Components
+* Portfolio
+* Travel Package Booking System
+* Weather dashboard
+* Sac Instruction Sheet
 
 ---
 
 ## 🌐 Connect With Me
 
-* GitHub: https://github.com/yourusername
-* Portfolio: Coming Soon 🚀
+* GitHub: gayatrichhetri247-ship-it
+* Portfolio:https://ca88672a.portfolio-6c0.pages.dev/
 
 ---
 
